@@ -1,0 +1,46 @@
+h1 {
+text-align: center;
+font-size: 50px;
+font-style: oblique;
+font-size: 40px;
+text-shadow: rgba(0,0,255,1) -1px -2px 0.5em;
+}
+    
+body {
+margin: 40px;
+font-size: 20px;
+font-weight: 50px;
+border: 2px solid black;
+padding: 25px;
+background: url(mountain.jpg);
+background-repeat: no-repeat;
+background-size: auto;
+  
+}
+#center1 {
+ margin-left: 30px;
+}
+.CL2{
+  margin-left: 100px;  
+}
+.CL1{
+    margin-left: 30px;
+}
+.CL3 {
+ text-align: right;
+ margin-right: 100px;
+ color: red;
+}
+.CL4{
+text-align: right;
+margin-right:50px;
+color: red;
+text-shadow: 5px 2px 4px grey, 10px -20px 4px red;
+}
+#master{
+color: green;
+text-decoration-line: underline;
+}
+.CL5{
+color: green;
+}
